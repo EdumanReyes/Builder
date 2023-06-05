@@ -1,0 +1,15 @@
+C:\Users\eduar\source\repos\PizzeriaBuilder\PizzeriaBuilder\bin\Debug\net7.0\PizzeriaBuilder.exe
+C:\Users\eduar\source\repos\PizzeriaBuilder\PizzeriaBuilder\bin\Debug\net7.0\PizzeriaBuilder.deps.json
+C:\Users\eduar\source\repos\PizzeriaBuilder\PizzeriaBuilder\bin\Debug\net7.0\PizzeriaBuilder.runtimeconfig.json
+C:\Users\eduar\source\repos\PizzeriaBuilder\PizzeriaBuilder\bin\Debug\net7.0\PizzeriaBuilder.dll
+C:\Users\eduar\source\repos\PizzeriaBuilder\PizzeriaBuilder\bin\Debug\net7.0\PizzeriaBuilder.pdb
+C:\Users\eduar\source\repos\PizzeriaBuilder\PizzeriaBuilder\obj\Debug\net7.0\PizzeriaBuilder.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\PizzeriaBuilder\PizzeriaBuilder\obj\Debug\net7.0\PizzeriaBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\source\repos\PizzeriaBuilder\PizzeriaBuilder\obj\Debug\net7.0\PizzeriaBuilder.AssemblyInfoInputs.cache
+C:\Users\eduar\source\repos\PizzeriaBuilder\PizzeriaBuilder\obj\Debug\net7.0\PizzeriaBuilder.AssemblyInfo.cs
+C:\Users\eduar\source\repos\PizzeriaBuilder\PizzeriaBuilder\obj\Debug\net7.0\PizzeriaBuilder.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\PizzeriaBuilder\PizzeriaBuilder\obj\Debug\net7.0\PizzeriaBuilder.dll
+C:\Users\eduar\source\repos\PizzeriaBuilder\PizzeriaBuilder\obj\Debug\net7.0\refint\PizzeriaBuilder.dll
+C:\Users\eduar\source\repos\PizzeriaBuilder\PizzeriaBuilder\obj\Debug\net7.0\PizzeriaBuilder.pdb
+C:\Users\eduar\source\repos\PizzeriaBuilder\PizzeriaBuilder\obj\Debug\net7.0\PizzeriaBuilder.genruntimeconfig.cache
+C:\Users\eduar\source\repos\PizzeriaBuilder\PizzeriaBuilder\obj\Debug\net7.0\ref\PizzeriaBuilder.dll
